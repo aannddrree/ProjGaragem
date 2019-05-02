@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\ProjGaragem\Dados\bin\Debug\Dados.dll
+C:\Users\andre\source\repos\ProjGaragem\Dados\bin\Debug\Dados.pdb
+C:\Users\andre\source\repos\ProjGaragem\Dados\bin\Debug\Entidade.dll
+C:\Users\andre\source\repos\ProjGaragem\Dados\bin\Debug\Utils.dll
+C:\Users\andre\source\repos\ProjGaragem\Dados\bin\Debug\Entidade.pdb
+C:\Users\andre\source\repos\ProjGaragem\Dados\bin\Debug\Utils.pdb
+C:\Users\andre\source\repos\ProjGaragem\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\ProjGaragem\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ProjGaragem\Dados\obj\Debug\Dados.dll
+C:\Users\andre\source\repos\ProjGaragem\Dados\obj\Debug\Dados.pdb

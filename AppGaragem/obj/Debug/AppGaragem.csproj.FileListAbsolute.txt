@@ -13,3 +13,7 @@ C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Entidade.pdb
 C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Utils.dll
 C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Utils.pdb
 C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.Principal.resources
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Dados.dll
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\bin\Debug\Dados.pdb
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.ConsultaCliente.resources
+C:\Users\andre\source\repos\ProjGaragem\AppGaragem\obj\Debug\AppGaragem.CadastroCarro.resources

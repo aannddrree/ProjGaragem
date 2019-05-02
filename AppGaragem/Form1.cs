@@ -1,4 +1,5 @@
-﻿using Entidade;
+﻿using Dados;
+using Entidade;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -33,6 +34,7 @@ namespace AppGaragem
 
             //Salvar:
             lstCliente.Add(cliente);
+            saveCliente(cliente);
 
             //Imprimir:
             MessageBox.Show("Cliente gravado com sucesso! \n" +
@@ -40,6 +42,14 @@ namespace AppGaragem
 
             //Limpar:
             LimparCampos();
+        }
+
+        private void saveCliente(Cliente cliente)
+        {
+            if (new ClienteDB().Insert(cliente))
+                MessageBox.Show("Registro inserido na base de dados!");
+            else
+                MessageBox.Show("Erro ao inserir registro na base de dados.");
         }
 
         private void btnListar_Click(object sender, EventArgs e)
